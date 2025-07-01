@@ -82,10 +82,3 @@ The calculator takes a string of numbers (with various delimiters) and returns t
 - `CalculatorSwiftUITests.swift` – All unit tests using TDD
 - `ContentView.swift` – SwiftUI view with input, button, and output
 
----
-
-## 🚀 Get Started
-
-```bash
-git clone https://github.com/yourusername/CalculatorSwiftUI.git
-open CalculatorSwiftUI.xcodeproj
